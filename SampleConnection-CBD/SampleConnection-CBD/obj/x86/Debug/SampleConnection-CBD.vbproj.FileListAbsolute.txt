@@ -1,0 +1,12 @@
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\bin\Debug\SampleConnection-CBD.exe.config
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\bin\Debug\CDB111_CBD_BUNDANG.accdb
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\bin\Debug\SampleConnection-CBD.exe
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\bin\Debug\SampleConnection-CBD.pdb
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\bin\Debug\SampleConnection-CBD.xml
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\obj\x86\Debug\SampleConnection_CBD.Resources.resources
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\obj\x86\Debug\SampleConnection-CBD.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\obj\x86\Debug\SampleConnection-CBD.exe
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\obj\x86\Debug\SampleConnection-CBD.xml
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\obj\x86\Debug\SampleConnection-CBD.pdb
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\obj\x86\Debug\SampleConnection_CBD.frmShipment.resources
+C:\Users\Public\Documents\CDB111BUNDANG\SampleConnection-CBD\SampleConnection-CBD\obj\x86\Debug\SampleConnection_CBD.frmCaptain.resources
